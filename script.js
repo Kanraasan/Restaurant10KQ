@@ -89,15 +89,3 @@ windows.addEventListener("DOMContentLoaded",function() {
     displayMenuItems(menu);
     displayMenuButtons();
 });
-
-
-
-
-
-
-
-
-
-
-
-
